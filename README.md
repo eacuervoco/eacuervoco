@@ -50,6 +50,7 @@ The project is being developed incrementally, from requirements and architecture
 `Software Architecture` · `UML` · `Testing` · `CI/CD`
 ### AI Engineering — Learning Path
 `RAG` · `AI Agents` · `MCP` · `Local AI`
+
 ---
 
 ## Telecom & Operations Background
